@@ -1,5 +1,3 @@
-![Tymur Bogach — Full-stack developer](assets/banner.png)
-
 <p align="center">
   <b>Full-stack developer</b> · Orihuela, Alicante (Spain)<br>
   I build web applications end to end, plus the Linux desktop tools and the homelab they run on.
