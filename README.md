@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tymur Bogach</h1>
+![Tymur Bogach — Full-stack developer](assets/banner.png)
 
 <p align="center">
   <b>Full-stack developer</b> · Orihuela, Alicante (Spain)<br>

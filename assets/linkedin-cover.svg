@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D100D"/>
+      <stop offset="1" stop-color="#070807"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.5" r="0.32">
+      <stop offset="0" stop-color="#13B241" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#13B241" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1584" height="396" fill="url(#bg)"/>
+  <rect width="1584" height="396" fill="url(#glow)"/>
+  <g stroke="#13B241" stroke-width="2">
+    <line x1="420" y1="40" x2="420" y2="170" opacity="0.08"/>
+    <line x1="560" y1="170" x2="560" y2="330" opacity="0.05"/>
+    <line x1="700" y1="50" x2="700" y2="200" opacity="0.07"/>
+    <line x1="840" y1="150" x2="840" y2="330" opacity="0.05"/>
+    <line x1="980" y1="40" x2="980" y2="170" opacity="0.07"/>
+    <line x1="1120" y1="160" x2="1120" y2="340" opacity="0.05"/>
+    <line x1="300" y1="120" x2="300" y2="300" opacity="0.06"/>
+    <line x1="150" y1="60" x2="150" y2="210" opacity="0.07"/>
+  </g>
+  <text x="430" y="168" font-family="Noto Sans, sans-serif" font-weight="700" font-size="72" letter-spacing="10" fill="#F5F5F5">TYMUR BOGACH</text>
+  <text x="434" y="226" font-family="Noto Sans, sans-serif" font-weight="700" font-size="28" letter-spacing="7" fill="#13B241">FULL-STACK DEVELOPER</text>
+  <text x="434" y="280" font-family="Noto Sans, sans-serif" font-weight="400" font-size="25" letter-spacing="2" fill="#9AA39A">Laravel &#183; Angular &#183; FastAPI &#183; Docker &#183; Homelab</text>
+  <circle cx="1380" cy="198" r="112" fill="#0A0C0A" stroke="#13B241" stroke-width="13"/>
+  <text x="1380" y="200" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans, sans-serif" font-weight="700" font-size="106" fill="#F5F5F5">&#1058;&#1041;</text>
+  <rect y="392" width="1584" height="4" fill="#13B241"/>
+</svg>
